@@ -8,6 +8,9 @@ An AI-powered document chat application with semantic search and citations.
 - Citations with exact page numbers for every answer
 - Conversation history sidebar
 - Fully local — no API costs using Ollama Llama3.2
+## Architecture
+
+![Architecture Diagram](docs/architecture.svg)
 
 ## Tech Stack
 - **Frontend:** React + Tailwind CSS
